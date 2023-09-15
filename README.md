@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxj2118&layout=compact)](https://github.com/jxj2118)
 
 [![jxj2118's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxj2118)](https://github.com/jxj2118)
 
